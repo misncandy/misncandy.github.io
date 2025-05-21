@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://northrb.moe/2024/07/16/7am-at-NorthTianTongyuan/</loc>
+    
+    <lastmod>2025-05-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://northrb.moe/2024/07/17/updated/</loc>
+    
+    <lastmod>2025-05-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://northrb.moe/2024/12/01/10minMyLife/</loc>
     
     <lastmod>2025-05-21</lastmod>
@@ -20,25 +38,7 @@
   </url>
   
   <url>
-    <loc>https://northrb.moe/2024/07/17/updated/</loc>
-    
-    <lastmod>2024-12-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://northrb.moe/updated/index.html</loc>
-    
-    <lastmod>2024-12-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://northrb.moe/2024/07/16/7am-at-NorthTianTongyuan/</loc>
     
     <lastmod>2024-12-01</lastmod>
     
