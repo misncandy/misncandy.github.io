@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://misncandy.moe/2024/updated/</loc>
+    <loc>https://misncandy.moe/about/index.html</loc>
     
     <lastmod>2025-07-06</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://misncandy.moe/about/index.html</loc>
+    <loc>https://misncandy.moe/2025/South-Anhe-Bridge/</loc>
+    
+    <lastmod>2025-07-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://misncandy.moe/2024/updated/</loc>
     
     <lastmod>2025-07-06</lastmod>
     
@@ -50,15 +59,6 @@
     <loc>https://misncandy.moe/2025/South-Central-Sataion/</loc>
     
     <lastmod>2025-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://misncandy.moe/2025/South-Anhe-Bridge/</loc>
-    
-    <lastmod>2025-06-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
