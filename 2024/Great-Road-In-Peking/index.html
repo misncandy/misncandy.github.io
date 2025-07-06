@@ -15,8 +15,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-  
   <meta name="theme-color" content="#2f4154">
   <meta name="author" content="北桥川">
   <meta name="keywords" content="">
@@ -201,7 +199,7 @@
   
 
 <div id="banner" class="banner" parallax=true
-     style="background: url('/img/default.png') no-repeat center center; background-size: cover;">
+     style="background: url('/img/photo_2025-07-06_10-22-52.jpg') no-repeat center center; background-size: cover;">
   <div class="full-bg-img">
     <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
       <div class="banner-text text-center fade-in-up">
@@ -538,6 +536,38 @@
 
   <footer>
     <div class="footer-inner">
+  <div>
+  <span id="timeDate">正在载入天数...</span>
+  <span id="times">载入时分秒...</span>
+  <script>
+  var now = new Date();
+  function createtime(){
+      var grt= new Date("07/12/2024 00:00:00");
+      now.setTime(now.getTime()+250);
+      days = (now - grt ) / 1000 / 60 / 60 / 24;
+      dnum = Math.floor(days);
+      hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum);
+      hnum = Math.floor(hours);
+      if(String(hnum).length ==1 ){
+          hnum = "0" + hnum;
+      }
+      minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+      mnum = Math.floor(minutes);
+      if(String(mnum).length ==1 ){
+                mnum = "0" + mnum;
+      }
+      seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+      snum = Math.round(seconds);
+      if(String(snum).length ==1 ){
+                snum = "0" + snum;
+      }
+      document.getElementById("timeDate").innerHTML = "🚀已持续航行&nbsp"+dnum+"&nbsp天";  
+      document.getElementById("times").innerHTML = hnum + "&nbsp时&nbsp" + mnum + "&nbsp分&nbsp" + snum + "&nbsp秒";
+  }
+  setInterval("createtime()",250);
+  </script>
+</div>
+
   
     <div class="footer-content">
        <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
@@ -692,6 +722,10 @@
   <script defer src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" ></script>
 
 
+
+
+  
+<script src="/!function()%7Bfunction%20t()%7Bi(),a()%7Dfunction%20i()%7Bdocument.addEventListener(%22mousemove%22,o),document.addEventListener(%22touchmove%22,e),document.addEventListener(%22touchstart%22,e),window.addEventListener(%22resize%22,n)%7Dfunction%20n(t)%7Bd=window.innerWidth,window.innerHeight%7Dfunction%20e(t)%7Bif(t.touches.length%3E0)for(var%20i=0;i%3Ct.touches.length;i++)s(t.touches%5Bi%5D.clientX,t.touches%5Bi%5D.clientY,r%5BMath.floor(Math.random()*r.length)%5D)%7Dfunction%20o(t)%7Bf.x=t.clientX,f.y=t.clientY,s(f.x,f.y,r%5BMath.floor(Math.random()*r.length)%5D)%7Dfunction%20s(t,i,n)%7Bvar%20e=new%20l;e.init(t,i,n),u.push(e)%7Dfunction%20h()%7Bfor(var%20t=0;t%3Cu.length;t++)u%5Bt%5D.update();for(t=u.length-1;t%3E=0;t--)u%5Bt%5D.lifeSpan%3C0&&(u%5Bt%5D.die(),u.splice(t,1))%7Dfunction%20a()%7BrequestAnimationFrame(a),h()%7Dfunction%20l()%7Bthis.character=%22*%22,this.lifeSpan=120,this.initialStyles=%7Bposition:%22fixed%22,top:%220%22,display:%22block%22,pointerEvents:%22none%22,%22z-index%22:%2210000000%22,fontSize:%2220px%22,%22will-change%22:%22transform%22%7D,this.init=function(t,i,n)%7Bthis.velocity=%7Bx:(Math.random()%3C.5?-1:1)*(Math.random()/2),y:1%7D,this.position=%7Bx:t-10,y:i-20%7D,this.initialStyles.color=n,this.element=document.createElement(%22span%22),this.element.innerHTML=this.character,c(this.element,this.initialStyles),this.update(),document.body.appendChild(this.element)%7D,this.update=function()%7Bthis.position.x+=this.velocity.x,this.position.y+=this.velocity.y,this.lifeSpan--,this.element.style.transform=%22translate3d(%22+this.position.x+%22px,%22+this.position.y+%22px,0)%20scale(%22+this.lifeSpan/120+%22)%22%7D,this.die=function()%7Bthis.element.parentNode.removeChild(this.element)%7D%7Dfunction%20c(t,i)%7Bfor(var%20n%20in%20i)t.style%5Bn%5D=i%5Bn%5D%7Dvar%20r=%5B%22#f94a70%22,%22#ffd12b%22,%22#49c99a%22,%22#1f90ed%22%5D,d=window.innerWidth,f=(window.innerHeight,%7Bx:d/2,y:d/2%7D),u=%5B%5D;t()%7D();%0A.js"></script>
 
 
 
