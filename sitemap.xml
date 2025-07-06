@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://misncandy.moe/2024/updated/</loc>
+    
+    <lastmod>2025-07-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://misncandy.moe/about/index.html</loc>
+    
+    <lastmod>2025-07-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://misncandy.moe/updated/index.html</loc>
     
     <lastmod>2025-07-06</lastmod>
     
@@ -83,27 +101,9 @@
   </url>
   
   <url>
-    <loc>https://misncandy.moe/2024/updated/</loc>
-    
-    <lastmod>2025-05-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://misncandy.moe/2024/2068/</loc>
     
     <lastmod>2025-05-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://misncandy.moe/updated/index.html</loc>
-    
-    <lastmod>2024-12-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
