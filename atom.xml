@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>北橋家</title>
+  <title>/mnt/misncandy</title>
   
-  <subtitle>三州社/彩虹社</subtitle>
+  <subtitle>/mnt/misncandy/rt</subtitle>
   <link href="https://misncandy.moe/atom.xml" rel="self"/>
   
   <link href="https://misncandy.moe/"/>
@@ -10,7 +10,7 @@
   <id>https://misncandy.moe/</id>
   
   <author>
-    <name>北桥川</name>
+    <name>有川夕見</name>
     
   </author>
   
