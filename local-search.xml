@@ -450,4 +450,26 @@
   
   
   
+  <entry>
+    <title>棉花糖的朋友们！</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>棉花糖的朋友们!test</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<div class="markdown-body">正文test</div>]]></content>
+    
+  </entry>
+  
+  
+  
 </search>
