@@ -1090,4 +1090,30 @@
         <tag>悼词</tag>
       </tags>
   </entry>
+  <entry>
+    <title>中国大陆业余无线电B证考试指北</title>
+    <url>/2025/AR_B/</url>
+    <content><![CDATA[<p>本文皆在介绍中国大陆业余无线电A证的简要考试内容与通过方法，</p>
+<span id="more"></span>
+
+<p><del>与其说是指北，不如写为留给自己的考试指北</del></p>
+<p>a.数字部分<br>1.2米波段主载波：144.047～145.788<br>70cm：438.002-439.995<br>2.1800-2000kHz：中频<br>3.PACKET：300&#x2F;1200&#x2F;9600<br>4.太阳通量：50-300<br>5.erp：20W<br>6.</p>
+<p>b.政策，简语与分区<br>1.CQ：《CQ》杂志<br>2.RST中R为信号可辨度<br>3.QSL：确认抄收<br>4.DXCC：3X、G、OE、HZ<br>5.QSB：是否衰落<br>6.不属于空间台：BJ1<br>7.5A：Libya 6Y：Jamaica<br>8.加快速度：QRQ<br>9.<del>频率使用：无需许可</del></p>
+<p>c.硬件部分<br>1.无感电阻：避免驻波<br>2.八木天线发射方向：主短；印朝<br>3.北京-纽约：东西走向<br>4.ALC：失真<br>5.低输入阻抗：1&#x2F;2奇数倍<br>6.三极管：4个引脚<br>7.晶体管三基本电极：源级，栅极，漏级<br><em>缘栅漏</em><br>8.HB9CV：八木；带宽较宽</p>
+<p>d.中英文对照<br>AGC：自动增益控制<br>DSSTV：差错控制<br>XIT：发射增量调谐</p>
+<p>e.技术类<br>1.dbd：10log(Po&#x2F;P)<br>2.80米：远恒近变<br>3.LC：瀑布图<br>4.流星轨迹：FT4<br>5.VSB优点：AM；保真度<br>6.不同调制方式 不考虑：稳定度<br>7.RTTY：不包括SSTV<br>8.DATV：DVB-S2：全选<br>9.VSB进行ATV：多径传播；VSWR过高<br>10.位移电流：开放系统，频率越高<br>11.</p>
+]]></content>
+      <categories>
+        <category>自然科学</category>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>中国大陆B类业余无线电考试指南</title>
+    <url>/2025/page/</url>
+    <content><![CDATA[]]></content>
+  </entry>
 </search>
